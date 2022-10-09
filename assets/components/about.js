@@ -10,7 +10,7 @@ class About extends HTMLElement {
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Versatile, personable, multilingual professional with a proven track record of identifying and addressing all unique customer requirements to maximize customer satisfaction and ensure loyalty in competitive markets. Respected as an empathetic, proactive leader and collaborator who guides team members in consistently surpassing ambitious goals. Builds and maintains lasting relationships with colleagues and clients, driving company objectives through a goal-oriented approach. Out-of-the-box thinker committed to making continuous communication, customer satisfaction, and strategic improvements to enable growth.</p>
         </div>
 
         <div class="row">
@@ -18,32 +18,27 @@ class About extends HTMLElement {
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>UI/UX Designer &amp; Web Developer.</h3>
+            <h3>
+            Project Manager & Full Stack Developer..</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Adept project manager and full stack developer with 5+ year track record of business development and 2+ years of web and software development.
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.eliasc.dev</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Montreal, Canada</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>info@eliasc.dev</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+            Core Competencies in Customer Relationship Management, Needs Assessment, Workflow Optimization, Process Improvement, Project Management, Cross-Functional Collaboration, Problem-Solving, Creative Vision & Asset Management.
             </p>
           </div>
         </div>
@@ -57,4 +52,7 @@ class About extends HTMLElement {
   
   
   customElements.define('about-component', About);
-  
+
+  //Extra elements
+  // <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1 514 963 3277</span></li>
+  // <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
