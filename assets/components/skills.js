@@ -10,7 +10,6 @@ class Skills extends HTMLElement {
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Skills and experience by the numbers.</p>
         </div>
 
         <div class="row skills-content">
