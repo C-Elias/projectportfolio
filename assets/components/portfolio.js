@@ -32,7 +32,7 @@ class Portfolio extends HTMLElement {
               <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>FirstNorth Real estate</h4>
-                <p>Web</p>
+                <p>Real estate lead gen.</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="FirstNorth Equity"></i></a>
                   <a href="portfolio-firstnorth.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><button type="button" class="btn btn-primary">See Details</button></i></a>
@@ -46,7 +46,7 @@ class Portfolio extends HTMLElement {
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Playlist Maker</h4>
-                <p>App</p>
+                <p>Create playlists and save to spotify</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"></i></a>
                   <a href="portfolio-playlistmaker.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><button type="button" class="btn btn-primary">See Details</button></i></a>
@@ -60,9 +60,9 @@ class Portfolio extends HTMLElement {
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>EasyFolio</h4>
-                <p>App</p>
+                <p>Cryptocurrency portfolio management solution</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"></i></a>
                   <a href="portfolio-easyfolio.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><button type="button" class="btn btn-primary">See Details</button></i></a>
                 </div>
               </div>
@@ -74,9 +74,9 @@ class Portfolio extends HTMLElement {
             <img src="assets/img/portfolio/portfolio-10.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>FocusTimer</h4>
-              <p>App</p>
+              <p>Pomodoro timer.</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Pomodoro Timer"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Pomodoro Timer"></i></a>
                 <a href="portfolio-focustimer.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><button type="button" class="btn btn-primary">See Details</button></i></a>
               </div>
             </div>
