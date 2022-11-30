@@ -68,6 +68,8 @@ class Portfolio extends HTMLElement {
             </div>
           </div>
 
+          
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/portfolio-10.jpg" class="img-fluid" alt="">
